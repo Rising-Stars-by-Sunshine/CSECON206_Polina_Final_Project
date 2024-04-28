@@ -1,3 +1,8 @@
+## View-Only Overleaf:
+https://www.overleaf.com/read/vnwtsmftphsn#f37ae3
+
+![Add a heading (1)](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/assets/148934457/3dace175-673e-444d-ab45-1dc40a4227f5)
+
 ## Background/Motivation:
 
 The integration of artificial intelligence (AI) into strategic decision-making processes poses significant challenges to traditional game theory frameworks. In this project, we aim to develop a novel approach to government project allocation using game theory principles. The decision-making process involves representatives from three parties, who allocate preferences to projects across four fields (economy, social policy, environment, culture), ranking them from most to least important. However, the dynamic nature of interactions in environments involving both human and AI agents presents unique challenges that existing game-theoretic models struggle to address effectively.
