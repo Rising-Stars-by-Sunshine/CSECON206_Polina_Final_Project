@@ -51,11 +51,18 @@ Welcome to my GitHub repository, where I document my journey through the course 
 
 #### Below is a flowchart illustrating the logical progression and interconnections between the weekly modules and assignments:
 
-<alt="flowchart" src="https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/assets/148934457/abf9b2ba-b079-4576-99a1-4208fd377dc5">
-
+<img width="1227" alt="Screenshot 2024-04-28 at 9 25 15 PM" src="https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/assets/148934457/f005b974-13d7-4387-bec7-1839aa580f4e">
 
 ## Table of Contents
-Could you provide a table of content with hyperlink to all the parts? 
+
+#### [CSEcon (A polished version of PS1)](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/tree/0e9f69cec7335d309ee49b16c4453c7a5f224692/CSEcon%20)
+
+#### [Advance_CSEcon (A polished version of PS1)](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/tree/0e9f69cec7335d309ee49b16c4453c7a5f224692/Advance_CSEcon%20)
+
+#### [Proposal](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/tree/0e9f69cec7335d309ee49b16c4453c7a5f224692/Proposal)
+- #### [Colab](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/tree/0e9f69cec7335d309ee49b16c4453c7a5f224692/Proposal/Colab)
+- #### [LaTeX](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/tree/0e9f69cec7335d309ee49b16c4453c7a5f224692/Proposal/LaTeX)
+- #### [Compiled PDF (v0)](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/tree/0e9f69cec7335d309ee49b16c4453c7a5f224692/Proposal/Compiled%20PDF%20(v0))
 
 ## More About the Author
 ![Headshot](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina_Final_Project/assets/148934457/a5f50c47-6e6d-447a-a8cd-deb4876ca252)
@@ -63,6 +70,6 @@ Could you provide a table of content with hyperlink to all the parts?
 - **Self-Introduction**: Hello, I'm Polina Konovalova, currently pursuing dual degrees: a B.A. from Duke University and an LL.B. from Duke Kunshan University. My academic journey is centered around a major in Computation and Design, reflecting my passion for interdisciplinary exploration at the intersection of technology, policy, and society. At Duke Kunshan University, I've been honored with awards for proficiency in Chinese as a Second Language, underscoring my commitment to cross-cultural communication and understanding in a global academic setting. My interests are diverse, encompassing International Relations, Machine Learning, and Social Media Studies. I'm dedicated to leveraging my interdisciplinary background to address pressing global challenges and drive positive change through informed analysis and innovation. Throughout my academic pursuits, I've actively engaged in research projects and extracurricular activities, seeking to contribute meaningfully to discussions on contemporary issues. From exploring the impact of social media on civic engagement to delving into the complexities of international relations through a computational lens, I'm driven by a desire to make a difference in the world.
 
 - **Final Reflections**: 
-  - **Intellectual Growth**: Insights and knowledge acquired.
-  - **Professional Growth**: Skills developed and career aspirations.
-  - **Living a Purposeful Life**: Personal achievements and future goals.
+  - **Intellectual Growth**: In this course, my intellectual growth was significant as I learned to appreciate the merits of applying machine learning techniques to solve complex social and economic issues. Through exploring game theory and its applications in computational microeconomics, I gained insights into how mathematical models and algorithms can be leveraged to analyze strategic interactions and decision-making processes. The interdisciplinary nature of the course allowed me to understand the interconnectedness between computer science, economics, and other fields, highlighting the importance of collaboration and knowledge integration in tackling real-world challenges. The magic of interdisciplinary research lies in its ability to provide holistic solutions that consider diverse perspectives and leverage a wide range of methodologies and techniques to address complex problems effectively.
+  - **Professional Growth**: In this course, I've grown professionally by acquiring a diverse skill set at the intersection of international relations, machine learning, and social media analysis. Through hands-on projects and coursework, I've honed my analytical abilities, developed expertise in data analysis and machine learning, and gained insights into the policy implications of social media in international affairs. These experiences have enabled me to craft a dynamic professional profile poised to tackle complex global challenges in the digital age.
+  - **Living a Purposeful Life**: In envisioning a purposeful life, I aspire to be a pioneering figure at the nexus of international relations, machine learning, and social media analysis. Through groundbreaking research and innovative solutions, I aim to contribute to advancing global understanding and diplomacy in the digital era. Winning prestigious awards like the Nobel Prize or Turing Award would signify my dedication to leveraging interdisciplinary approaches for the betterment of humanity. Ultimately, my goal is to leave a lasting legacy by fostering collaboration and driving positive change that transcends traditional boundaries, ultimately shaping a more connected and informed world.
