@@ -1,4 +1,4 @@
-# CSECON206_Polina_Final_Project
+# Innovative Mechanism Design for Strategic Decision-Making in AI Environments
 
 ## Project Information
 - **Author**: Polina Konovalova, Majoring in Computation and Design (Social Policy Track), Class of 2025, Duke Kunshan University
