@@ -15,39 +15,39 @@ Welcome to my GitHub repository, where I document my journey through the course 
 
 📑 Explored the foundational concepts and methodologies at the intersection of computer science and economics.
 
-📎 Reflection 1, reflecting on key takeaways from the week's lectures and readings.
+📎 Reflection 1
 
 #### Week 2: Basic Techniques from Computer Science
 
 📑 Learned about basic algorithms and software commonly used in computer science, including tree development, Multi-Agent Reinforcement Learning (MARL), and GitHub setup.
 
-📎 Reflection 2, reflecting on the practical applications of the techniques learned.
+📎 Reflection 2
 
 #### Week 3: Strategic Decisions in Game Theory and Solution Concepts
 
 📑 Formalized microeconomic problems in game theory or mechanism design and simulated solutions using computational methods.
 
-📎 Reflection 3 and submitted Problem Set 1.
+📎 Reflection 3 and Problem Set 1.
 
 #### Week 4: Algorithmic Game Theory
 
 📑 Learned to simulate games and solve solution concepts using Python, Game Theory Explorer, Nashpy, and QuantEcon.
 
-📎Reflection 4, reflecting on the challenges and insights gained from studying algorithmic game theory.
+📎Reflection 4
 
 #### Week 5/6: Social Choice and Mechanism Design
 
 📑 Explored the applications of game theory and mechanism design to auctions and voting, and studied algorithms to simulate application scenarios.
 
-📎 Problem Set 2 Completion
+📎 Problem Set 2
 
-📎 Individual Project Draft Submission
+📎 Individual Project Draft
 
 #### Week 7: Final Symposium
 
 📑 Peer Evaluation
 
-📎 Final Project Submission, showcasing my application of computational microeconomics principles to a real-world scenario
+📎 Final Project 
 
 #### Below is a flowchart illustrating the logical progression and interconnections between the weekly modules and assignments:
 
