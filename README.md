@@ -1,4 +1,4 @@
-# Innovative Mechanism Design for Strategic Decision-Making in AI Environments
+# Navigating Bias: Exploring Age and Gender in AI-Agent Decision-Making within Prisoner’s Dilemma Framework
 
 ## Project Information
 - **Author**: Polina Konovalova, Majoring in Computation and Design (Social Policy Track), Class of 2025, Duke Kunshan University
